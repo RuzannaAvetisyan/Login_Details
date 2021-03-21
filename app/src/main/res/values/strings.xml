@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidHomeWork2</string>
+    <string name="login_form_title">DETAILS FORM</string>
+    <string-array name="spinner" id="spinner_str">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
